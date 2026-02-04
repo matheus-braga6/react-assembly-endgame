@@ -2,6 +2,8 @@
 
 A word guessing game built with React where the goal is to save programming languages before only Assembly remains.
 
+🔗 **Live Demo:** https://matheus-braga6.github.io/react-assembly-endgame/
+
 ## 📚 About the project
 
 This project was developed as part of the **Learn React** course by Scrimba.
